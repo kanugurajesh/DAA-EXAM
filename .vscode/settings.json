@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "corecrt.h": "c",
+        "corecrt_wstdio.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "limits.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
